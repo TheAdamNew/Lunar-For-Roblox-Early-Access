@@ -1,4 +1,4 @@
-# Lunar for Roblox — Early Access
+# Lunar for Roblox - Early Access
 
 > **Status: Early Access (indefinite).** The official package servers are retired.
 > The setup still installs offline. The vibes remain.
